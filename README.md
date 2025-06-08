@@ -3,6 +3,6 @@
 > tunnel example: randomsubdom.ain.online
 
 ## Gagasan
-Sebuah layanan tunneling yang disediakan oleh Koneksi Cloud (PT Koneksi Jaringan Indonesia), memungkinkan pengguna untuk meneruskan layanan dari jaringan lokal ke internet publik melalui mekanisme reverse proxy yang aman dan fleksibel
+Dengan layanan tunnel dari Koneksi Cloud, Luncurkan aplikasi lokal ke internet hanya dalam hitungan detik — tanpa konfigurasi kompleks, cukup satu kali perintah klik.
 
 ## GUIDE LINE FOR DEVELOPER
